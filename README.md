@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Juan Salvador Hernández Olivares.
+- 👋 Hi, I’m Chava.
 - 👀 I’m interested in ... test and program code.
-- 🌱 I’m currently learning ... Java, HTML5 standard (HTML/CSS/JS), SQL, Python, Linux, English Language.
-- 💞️ I’m looking to collaborate on ... a team.
+- 🌱 I’m currently learning ... Java, HTML5 standard (HTML/CSS/JS), SQL, Python, Linux, C++, Kotlin, Swift, English Language.
+- 💞️ I’m looking to collaborate on ... a team/individual/any software.
 - 📫 How to reach me ... chava.490@gmail.com
 
 <!---
